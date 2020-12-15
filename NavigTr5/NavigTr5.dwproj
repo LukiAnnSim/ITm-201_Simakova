@@ -8,22 +8,22 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>CheckTr.cube</Name>
-      <FullPath>CheckTr.cube</FullPath>
+      <Name>TransportCheck.cube</Name>
+      <FullPath>TransportCheck.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>CheckTr.partitions</Name>
-          <FullPath>CheckTr.partitions</FullPath>
+          <Name>TransportCheck.partitions</Name>
+          <FullPath>TransportCheck.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
     <ProjectItem>
-      <Name>SoldProd.cube</Name>
-      <FullPath>SoldProd.cube</FullPath>
+      <Name>ProductSold.cube</Name>
+      <FullPath>ProductSold.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>SoldProd.partitions</Name>
-          <FullPath>SoldProd.partitions</FullPath>
+          <Name>ProductSold.partitions</Name>
+          <FullPath>ProductSold.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>

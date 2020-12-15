@@ -1,6 +1,6 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="bcd3047a-aef9-4941-bfcd-c8e554cc1187" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="3d9bd6de-708c-4e5f-a6c0-3972324de011" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Transports</ID>
-  <Name>Transports</Name>
+  <Name>Транспорт</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
   <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
   <Annotations>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1814" scrolltop="-5729" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="6668" y="14182" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1814" scrolltop="-5729" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7699" y="14182" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01cc0000900144420100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Transports" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2725" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Transports" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2725" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000a50a0000" />
             </control>
@@ -65,117 +65,163 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
       <Value>100</Value>
     </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="154">
+            <Shape Id="Id Transport" Expanded="false">
+              <Attributes>
+                <Attribute Id="Id Transport" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+            <Shape Id="Track Number" Expanded="false">
+              <Attributes>
+                <Attribute Id="Track Number" />
+              </Attributes>
+              <Position x="217" y="20" />
+            </Shape>
+            <Shape Id="State Number" Expanded="false">
+              <Attributes>
+                <Attribute Id="State Number" />
+              </Attributes>
+              <Position x="415" y="20" />
+            </Shape>
+            <Shape Id="Owner" Expanded="false">
+              <Attributes>
+                <Attribute Id="Owner" />
+              </Attributes>
+              <Position x="612" y="20" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="fe8e39a1-34b8-46ed-a55a-3ffe4a3fb4df">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="4fb9c252-d9bb-4108-8279-2fe0190100c1">
     <DataSourceViewID>Sib Transport</DataSourceViewID>
   </Source>
-  <UnknownMember>Visible</UnknownMember>
-  <ErrorConfiguration dwd:design-time-name="314fa727-e9fd-41d0-9d9f-b51eab282de3">
+  <UnknownMember>Hidden</UnknownMember>
+  <ErrorConfiguration dwd:design-time-name="47741c26-fc4a-4a3e-8090-a73692055875">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="fc7ea50c-2b45-4617-b86e-d95c85f7d28d">
+    <Attribute dwd:design-time-name="0ffa8524-bbe2-42c5-a237-15f7f7bbc5e7">
       <ID>Id Transport</ID>
       <Name>Id Transport</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="ea407465-0555-4219-9fda-65dea08c8a28">
+        <KeyColumn dwd:design-time-name="464876ad-c2fc-4fa9-a444-8306d94b4656">
           <DataType>Integer</DataType>
           <NullProcessing>UnknownMember</NullProcessing>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="550dd018-ddd6-49b5-b9f4-8a59145a64fe">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="30b958b0-1b3e-4d6e-aebe-64e0353fc310">
             <TableID>dbo_Transports</TableID>
             <ColumnID>IdTransport</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="2e3ff90e-c79d-4d88-9cb8-a0dc8dd81f6c">
+        <AttributeRelationship dwd:design-time-name="b19e72cd-0d60-48af-934e-d93daab75261">
           <AttributeID>Track Number</AttributeID>
-          <Name>Track Number</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="625a4187-ebb9-4919-9538-9ad1ffabb3d1">
-          <AttributeID>State Number</AttributeID>
-          <Name>State Number</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="0ee68a6a-0577-480b-ab41-283e26372ae0">
-          <AttributeID>Owner</AttributeID>
-          <Name>Owner</Name>
+          <Name>НомерОтслеживания</Name>
         </AttributeRelationship>
       </AttributeRelationships>
       <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="2f322e16-2444-411a-adb1-140c1c32cbd6">
+    <Attribute dwd:design-time-name="beac2c6c-2dbc-4e6e-8756-6ed8d571b520">
       <ID>Track Number</ID>
-      <Name>Track Number</Name>
+      <Name>НомерОтслеживания</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="d675648a-d610-4704-bd64-50926fdf6685">
+        <KeyColumn dwd:design-time-name="26dd3b9b-36c8-43c8-98ae-601b9a6dde72">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="e4772aaf-f9af-4957-b89c-698600e88944">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="19862fed-c4d1-4024-a758-0135d9cd8bea">
             <TableID>dbo_Transports</TableID>
             <ColumnID>TrackNumber</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="9eb3d724-e31c-4d5b-b534-521b7c570a3c">
+          <AttributeID>State Number</AttributeID>
+          <Name>ГосНомер</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
       <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="f3e6b675-9412-4b93-b5c9-2589732d7ea0">
+    <Attribute dwd:design-time-name="6e81ed02-c41d-4550-90c1-35b6a233252b">
       <ID>State Number</ID>
-      <Name>State Number</Name>
+      <Name>ГосНомер</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="e0d905d0-85b2-4dea-86fd-5ca8171f95c0">
+        <KeyColumn dwd:design-time-name="b6c70e5a-31c1-4318-aca6-378680f0e2f4">
           <DataType>WChar</DataType>
           <DataSize>10</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="69b1aceb-3343-4ed1-8bc2-7bfce5cbb1be">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="abf1a0e5-378d-431e-b9eb-b2b7251db727">
             <TableID>dbo_Transports</TableID>
             <ColumnID>StateNumber</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="b8b0efba-c7fd-4020-b62d-c6c1162ed7a8">
+          <AttributeID>Owner</AttributeID>
+          <Name>Владелец</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
       <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="63fa3d02-ea1a-4def-94a8-fae83b92e5f5">
+    <Attribute dwd:design-time-name="d17a3b08-a163-4165-a8fa-a092d8e45141">
       <ID>Owner</ID>
-      <Name>Owner</Name>
+      <Name>Владелец</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="221a8145-74e3-4177-9c92-b96528881974">
+        <KeyColumn dwd:design-time-name="f9b48eaa-9697-4834-89eb-fd36de097aea">
           <DataType>WChar</DataType>
           <DataSize>50</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="ab17034a-e975-4a7e-b346-5a71771b46a9">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="0c82277c-365d-4798-919d-72a343828b58">
             <TableID>dbo_Transports</TableID>
             <ColumnID>Owner</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
   </Attributes>
   <Hierarchies>
-    <Hierarchy dwd:design-time-name="ffd1e32a-6289-49a6-8809-2095c762fffe">
+    <Hierarchy dwd:design-time-name="f200f85a-7504-487e-9a59-953491830594">
       <ID>Иерархия</ID>
-      <Name>Иерархия</Name>
+      <Name>Транспорт</Name>
       <Levels>
-        <Level dwd:design-time-name="8057224c-aa95-4fe1-a0cd-2a8b6d4e5d01">
-          <ID>Owner</ID>
-          <Name>Owner</Name>
+        <Level dwd:design-time-name="633ce398-4756-44c1-b04f-50ae6a62e25f">
+          <ID>Владелец</ID>
+          <Name>Владелец</Name>
           <SourceAttributeID>Owner</SourceAttributeID>
         </Level>
-        <Level dwd:design-time-name="c61cb140-60fb-4f6e-b3dc-905e70afc1ae">
-          <ID>State Number</ID>
-          <Name>State Number</Name>
+        <Level dwd:design-time-name="b29254d1-b1e2-4c8a-b97b-e2cb91f201b5">
+          <ID>ГосНомер</ID>
+          <Name>ГосНомер</Name>
           <SourceAttributeID>State Number</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="8e686200-77e7-4512-b184-74be30bddc49">
+          <ID>НомерОтслеживания</ID>
+          <Name>НомерОтслеживания</Name>
+          <SourceAttributeID>Track Number</SourceAttributeID>
         </Level>
       </Levels>
     </Hierarchy>

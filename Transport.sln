@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Transport", "Transport\Tran
 EndProject
 Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "NavigTr5", "NavigTr5\NavigTr5.dwproj", "{9F1820AB-FD1C-49CD-A7B0-A01E5FD40D7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppLab7-8", "WindowsFormsAppLab7-8\WindowsFormsAppLab7-8.csproj", "{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,12 @@ Global
 		{9F1820AB-FD1C-49CD-A7B0-A01E5FD40D7B}.Release|Any CPU.ActiveCfg = Development
 		{9F1820AB-FD1C-49CD-A7B0-A01E5FD40D7B}.Release|Any CPU.Build.0 = Development
 		{9F1820AB-FD1C-49CD-A7B0-A01E5FD40D7B}.Release|Any CPU.Deploy.0 = Development
+		{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897C8D36-5B26-4EB4-8F1C-D7B961780B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
